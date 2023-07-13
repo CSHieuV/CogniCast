@@ -1,1 +1,1 @@
-# Predictive-Modeling-for-Dementia-Diagnosis
+# CogniCast
